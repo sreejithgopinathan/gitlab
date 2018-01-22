@@ -1,2 +1,3 @@
 Some Text
 Adding New line
+Adding new line from server
